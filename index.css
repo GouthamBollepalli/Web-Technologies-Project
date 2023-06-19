@@ -1,0 +1,41 @@
+h1, h2 {
+    text-align: center;
+  }
+  
+  #loginContainer {
+    max-width: 200px;
+    text-align: justify;
+    max-width: 100%;
+    height: 120vh;
+    background-image: url(recognition-01.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  #resultsContainer {
+    display: none;
+    background-image: url(Survey-results-into-presentations-cvr.jpg.webp);
+    height: 120vh
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
